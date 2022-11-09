@@ -5,8 +5,8 @@
 
 int main()
 {
-    std::cout << "Hello clone GItHub!\n";
-    std::cout << " New Clone branch changed\n";
+    std::cout << "Hello Marge GItHub!\n";
+    std::cout << " New Marge branch changed\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
